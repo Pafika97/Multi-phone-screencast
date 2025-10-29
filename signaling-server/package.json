@@ -1,0 +1,12 @@
+{
+  "name": "webrtc-multi-signal",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.18.0",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
